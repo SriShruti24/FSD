@@ -1,0 +1,36 @@
+/*body{
+    background-color: brown;
+}*/
+body{
+    background-image: url(oo.jpeg);
+     background-repeat: no-repeat ;
+      background-position: top right;
+      background-size: cover;
+      background-color: blueviolet;}
+      body{ background: url('./oo.jpeg')#E8E7A repeat-x right 0;}
+      h1{
+        text-align: center;
+        text-transform: uppercase;
+        text-decoration: underline;
+        text-shadow: 1px 2px #f04;
+        text-indent:20 px ;
+        color: rgb(4, 4, 14);
+      }
+      p{
+         font-family: 'Lucida Sans',Geneva,Verdana,sans-serif;
+         font-weight: bold;
+         font-style: italic;
+         text-decoration: underline;
+         color: #0000ff;
+       
+      }
+
+
+.pet{
+  font-size: large;
+  color: black;
+  text-indent: 80px;
+}
+.header{
+  
+}
